@@ -1,2 +1,6 @@
 "use strict";
-alert("hello world");
+
+window.Webflow ||= [];
+window.Webflow.push(() => {
+  alert("hello world");
+});
