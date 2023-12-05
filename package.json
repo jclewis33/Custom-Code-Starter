@@ -1,0 +1,26 @@
+{
+  "name": "custom-code-starter",
+  "version": "1.0.0",
+  "description": "Custom code starter files for Webflow projects",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jclewis33/Custom-Code-Starter.git"
+  },
+  "keywords": [
+    "Webflow"
+  ],
+  "author": "Casey Lewis CL Creative",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jclewis33/Custom-Code-Starter/issues"
+  },
+  "homepage": "https://github.com/jclewis33/Custom-Code-Starter#readme",
+  "dependencies": {
+    "parcel": "^2.10.3"
+  }
+}
